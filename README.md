@@ -1,21 +1,8 @@
-# Applicazione per la simulazione dei servizi di un’agenzia di viaggi
-
-Istruzioni per l'utilizzo del software
-
-1. Effettuare il fork del progetto al seguente link URI: https://github.com/TdP-prove-finali/GaudinoAndrea
-
-2. Importare il progetto nel porprio ambiente di svilippo
-
-3. Importare il data-set "script_finale" dalla cartella database, inserendo le proprie credenziali nel file connector.cnf
-
-4. Eseguire il file "main" del progetto per avviare il programma
-
-Per un video di presentazione visitare: https://www.youtube.com/watch?v=aG2oLluywMc
-
-
 # Applicazione per la Simulazione dei Servizi di un’Agenzia di Viaggi
 
 Questo documento fornisce le istruzioni per la configurazione, l'installazione e l'avvio dell'applicazione per la simulazione dei servizi di un'agenzia di viaggi, inclusi i dettagli su come connettersi al server MySQL.
+
+Nella cartella **documents** è presente la relazione tecnica in formato docx e pdf.
 
 ## Istruzioni per l'Utilizzo e l'Avvio
 
